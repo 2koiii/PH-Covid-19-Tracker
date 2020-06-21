@@ -6,7 +6,7 @@ root = Tk()
 root.title('COVID-19 Tracker')
 root.geometry('400x200')
 root.resizable(width='False', height='False')
-root.iconbitmap('icons/virus.ico')
+# root.iconbitmap('icons/virus.ico')
 
 def rfrsh():
     global resframe
